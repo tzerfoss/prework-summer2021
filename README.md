@@ -35,7 +35,7 @@ Below is a guideline to building the final product to be completed in your **ind
 
 All of your work must be performed in the `index.html` file.
 
-If you need more information on how to implement the below steps refer to: **[HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)**
+If you need more information on how to implement the below steps refer to: **[HTML Crash Course]**
 
 1. Use a h1 tag to make a title that reads as, "My Favorite Things"
 2. Below the h1 tag, add a image tag below the My Favorite Things title with an image of yourself
